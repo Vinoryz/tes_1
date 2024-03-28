@@ -1,7 +1,23 @@
 # Task
 ## Task 1
+### Cara pengerjaan
+#### Problem a
+Pada script ini saya langsung menggunakan awk untuk mencari nama pengusul yang mengusulkan judul yang memiliki lebih dari 20 kata.
+- Hasil screeshot
+  ![1a](resource/Screenshot/1a.png)
 
+#### Problem b
+Pada script ini saya langsung menggunakan awk untuk mencari skema paling populer.
+- Hasil screeshot
+  ![2a](resource/Screenshot/1b.png)
 
+#### Problem c
+Pada script ini saya membuat 2 variabel yang menyimpan path direktori dan nama file untuk memudahkan target file. Dilanjutkan dengan awk yang digunakan untuk mencari pengusul yang mengusulkan lebih dari 1 judul.
+- Hasil screeshot
+  ![2a](resource/Screenshot/1c.png)
+
+### Kendala
+Tidak terdapat kendala pada pengerjaan task-1 sehingga pengerjaan task-1 berjalan lancar.
 ## Task 2
 
 
